@@ -13,6 +13,6 @@ Tested in: Matlab 2019b and Dynare 4.5.7 on Windows 10 (64-bit)
 - [thankksw_master.mod](thankksw_master.mod): Master dynare shell to run all model specifications
 - [saveParams.m](saveParams.m): Saves specification values to load in thankksw_master.mod
 
-**[paper](bks_paper.pdf):** Pdf containing paper and online appendix
+**[Paper](bks_paper.pdf):** Pdf containing paper and online appendix
 
 If you have any questions, please contact me at dkaenzig@london.edu
