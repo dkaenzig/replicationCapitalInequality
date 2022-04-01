@@ -9,10 +9,10 @@ Tested in: Matlab 2019b and Dynare 4.5.7 on Windows 10 (64-bit)
 
 **[BKS_replication.m](BKS_replication.m)**: Main shell to replicate all results
 
-**[\subfiles](subfiles):** Subscripts called in `mainAnalysisOilSupplyNews.m`
-- [transformAndPlotData.m](subfiles/transformAndPlotData.m): script to transform (and plot) raw data
-- [loadProxy.m](subfiles/loadProxy.m): script to read in external instrument
-- [runProxyVAR.m](subfiles/runProxyVAR.m): script to estimate proxy VAR; bands are computed using bootstrapping techniques
-- [runRigobonVAR.m](subfiles/runRigobonVAR.m): script to estimate heteroskedasticity-based VAR; bands are computed using bootstrapping techniques
+**Subfiles:** 
+- [thankksw_master.mod](thankksw_master.mod): Master dynare shell to run all model specifications
+- [saveParams.m](saveParams.m): Saves specification values to load in thankksw_master.mod
 
-**[paper](Känzig&#32;2020&#32;-&#32;The&#32;macroeconomic&#32;effects&#32;of&#32;oil&#32;supply&#32;news.pdf):** Pdf containing paper and online appendix
+**[paper](bks_paper.pdf):** Pdf containing paper and online appendix
+
+If you have any questions, please contact me at dkaenzig@london.edu
