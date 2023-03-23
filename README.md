@@ -15,4 +15,4 @@ Tested in: Matlab 2019b and Dynare 4.5.7 on Windows 10 (64-bit)
 
 **[Paper](bks_paper.pdf):** Pdf containing paper and online appendix
 
-If you have any questions, please contact me at dkaenzig@london.edu
+If you have any questions, please contact me at dkaenzig@northwestern.edu
